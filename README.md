@@ -1,4 +1,4 @@
-# Ejercicio Reloj
+Ejercicio Reloj con HTML CSS y JavaScript
 
 https://juanmaynard91.github.io/Reloj/
 
